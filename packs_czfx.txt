@@ -1,9 +1,9 @@
-4
+5
 
 ---- CARDS ----
-13 Oct - 31 Oct|Card|pack_card_halloween|Happy Halloween|10|10 Cards|Y|$0.99|Halloween cards available now!|Treat your friends, family and loved ones with our ready-made Halloween Cards... just snap a photo and share!
 10 Dec - 31 Dec|Card|pack_card_xmas|Christmas Pack|10|10 Cards|Y|$0.99|New Christmas cards available now!|Choose one of 10 magical Christmas cards.`Choose a Christmas frame, add text, snap a photo and share with friends or family!
 1 Nov - 7 Nov|Card|pack_card_birthday|Happy Birthday|10|10 Cards|Y|$0.99|Birthday cards available now!|Treat your friends, family and loved ones with our ready-made Birthday Cards... just snap a photo and share!
 1 Apr - 30 Apr|Card|pack_card_easter|Easter Pack|10|10 Cards|Y|$0.99|New Easter cards available now!|Choose one of 10 beautiful Easter cards.`Choose an Easter frame, add text, snap a photo and share with friends or family!
 1 Jul - 30 Aug|Card|pack_card_summer|Summer Lovin'|10|10 Cards|Y|$0.99|New Summer postcards available now!|Show off your summer spirit with our new package of summer postcards!`Choose a Summer frame, add text, snap a photo and share with friends or family!
 31 Aug - 10 Sep|Card|pack_card_school|Back to School|10(9,10,1,2,3,4,5,6,7,8)|10 Cards|Y|$0.99|New Back to School cards available now!|Create memorable back-to-school photos of your loved ones!!`Choose a School frame, add text, snap a photo and share with friends or family!
+13 Oct - 31 Oct|Card|pack_card_halloween|Happy Halloween|10|10 Cards|Y|$0.99|Halloween cards available now!|Treat your friends, family and loved ones with our ready-made Halloween Cards... just snap a photo and share!
